@@ -24,9 +24,7 @@ In this repository, you will find Jupyter Notebook files that demonstrate variou
 
 You can explore these notebooks to gain insights into tipping behavior, uncover patterns, and understand how different factors may influence tips.
 
-## Usage
 
-Feel free to use the provided Jupyter Notebook files as a reference for your own data analysis projects or as a learning resource for data visualization using Python and Seaborn.
 
 ## Getting Started
 
